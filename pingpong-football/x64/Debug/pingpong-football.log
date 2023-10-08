@@ -1,0 +1,12 @@
+﻿  AssetManager.cpp
+  Ball.cpp
+  CollisionDetection.cpp
+  Game.cpp
+  GameObjects.cpp
+  Label.cpp
+  main.cpp
+  Platform.cpp
+  TextureManager.cpp
+  Timer.cpp
+  Generating Code...
+  pingpong-football.vcxproj -> D:\pingpong-football\x64\Debug\pingpong-football.exe
